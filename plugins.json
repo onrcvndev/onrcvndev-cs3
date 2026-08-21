@@ -388,14 +388,14 @@
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/WebDramaTurkey.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "WebDramaTurkey",
         "internalName": "WebDramaTurkey",
         "authors": [
             "onrcvndev"
         ],
         "description": "Web Drama Turkey \u00fczerinden Kore, \u00c7in, Japon ve di\u011fer Asya dizilerini, filmlerini ve animelerini izleyin.",
-        "fileSize": 26827,
+        "fileSize": 28035,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -406,7 +406,7 @@
         ],
         "iconUrl": "https://webdramaturkey2.com/public/static/logo.webp?v=2.5.27",
         "apiVersion": 1,
-        "fileHash": "sha256-90c352059b223806fb2635482e1839db06e785676bf28d9456ce46570f37f351"
+        "fileHash": "sha256-cb1e49317b73790c85acfedaf6ee1115f7cbd0d17b73ba40f523473c5ae8dc36"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/WebteIzle.cs3",
