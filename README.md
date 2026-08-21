@@ -43,6 +43,10 @@ https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/repo.json
 
 Eklenti sürümleri ve erişilebilirlik bilgileri `plugins.json` dosyasından otomatik olarak okunur.
 
+## Sorun bildirimi
+
+Çalışmayan eklentiler için issue açarak eklenti adını ve çalışmayan bölümü belirtebilirsiniz.
+
 ## Dağıtım modeli
 
 - Kaynak proje ayrı ve özel bir depoda tutulur.
