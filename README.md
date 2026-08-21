@@ -43,10 +43,6 @@ https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/repo.json
 
 Eklenti sürümleri ve erişilebilirlik bilgileri `plugins.json` dosyasından otomatik olarak okunur.
 
-## Sorun bildirimi
-
-Eklenti çalışmıyor, bir provider güncel değil veya depo eklenemiyorsa [issue açabilirsiniz](https://github.com/onrcvndev/onrcvndev-cs3/issues). Bildirime eklenti adını, CloudStream sürümünü ve mümkünse hata bilgisini ekleyin.
-
 ## Dağıtım modeli
 
 - Kaynak proje ayrı ve özel bir depoda tutulur.
