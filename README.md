@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/repo.json
 - SezonlukDizi
 - SinemaCX
 - TRasyalog
+- WebDramaTurkey
 - WebteIzle
 
 Eklenti sürümleri ve erişilebilirlik bilgileri `plugins.json` dosyasından otomatik olarak okunur.
