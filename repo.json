@@ -1,0 +1,8 @@
+{
+  "name": "Onrcvndev CloudStream",
+  "description": "Onrcvndev tarafından derlenip yayınlanan CloudStream eklentileri.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/plugins.json"
+  ]
+}
