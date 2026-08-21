@@ -124,14 +124,14 @@
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziKorea.cs3",
         "status": 1,
-        "version": 45,
+        "version": 46,
         "name": "DiziKorea",
         "internalName": "DiziKorea",
         "authors": [
             "onrcvndev"
         ],
         "description": "En G\u00fcncel Kore Dizileri izleme Sitesi",
-        "fileSize": 25389,
+        "fileSize": 26249,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -139,7 +139,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-4d90ccb990ea7cd6e04d50fcf034fc364ddbf66a01cfadedb9340202a1d0afc8"
+        "fileHash": "sha256-8dacb5a8b193617d5b7497fde255cb4ef0a1fe4432c81594acb66f4fa25e72cc"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/Dizilla.cs3",
