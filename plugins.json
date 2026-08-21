@@ -411,14 +411,14 @@
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/WebteIzle.cs3",
         "status": 1,
-        "version": 20,
+        "version": 21,
         "name": "WebteIzle",
         "internalName": "WebteIzle",
         "authors": [
             "onrcvndev"
         ],
         "description": "Her t\u00fcrl\u00fc filmi ister dublaj ister altyaz\u0131l\u0131, en kaliteli bir \u015fekilde izleyebilece\u011finiz ar\u015fivi en geni\u015f ger\u00e7ek film izleme siteniz.",
-        "fileSize": 26605,
+        "fileSize": 28350,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -426,6 +426,6 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-3974e0e0d18ea8957000fd692c11b5153f899a5ccb869a0bbceef1ed31b804aa"
+        "fileHash": "sha256-59dbefc2a2d6fe374023c3cf707bb3a68aba7459fee3949a889afd286ffedf3d"
     }
 ]
