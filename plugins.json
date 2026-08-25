@@ -266,14 +266,14 @@
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 89,
+        "version": 90,
         "name": "DiziPalOriginal",
         "internalName": "DiziPalOriginal",
         "authors": [
             "onrcvndev"
         ],
         "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 66046,
+        "fileSize": 66219,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -282,7 +282,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=resmi.dizipal2117.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-cb11b7e969d10acbe765b38239c3384d9792073cf115845530914b955ae0ba3c"
+        "fileHash": "sha256-efc92de41abb245eeab35384def60ddb1397a38ee105baa11cb636913b543000"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/FilmMakinesi.cs3",
