@@ -123,46 +123,6 @@
         "fileHash": "sha256-ddd3f9b33db2bba5d486c8d9bb6199d240119f35a8d5b11a5c86240f708ef879"
     },
     {
-        "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziAsya-Dizi.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "DiziAsya-Dizi",
-        "internalName": "DiziAsya-Dizi",
-        "authors": [
-            "onrcvndev"
-        ],
-        "description": "Diziasya \u00fczerindeki Asya dizilerini t\u00fcrlerine g\u00f6re sunar.",
-        "fileSize": 57809,
-        "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
-        "language": "tr",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://diziasya.com/favicon.ico",
-        "apiVersion": 1,
-        "fileHash": "sha256-1cadf0db0486375eb89bb3a50c277b388b4b8ba14bb41a3f95a6cd12eeb48047"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziAsya-Film.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "DiziAsya-Film",
-        "internalName": "DiziAsya-Film",
-        "authors": [
-            "onrcvndev"
-        ],
-        "description": "Diziasya \u00fczerindeki Asya filmlerini t\u00fcrlerine g\u00f6re sunar.",
-        "fileSize": 57456,
-        "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://diziasya.com/favicon.ico",
-        "apiVersion": 1,
-        "fileHash": "sha256-b5ea083e0792ab2861ad3be97bee5a3f29df2ade9ddf1304aa72656905701339"
-    },
-    {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziBox.cs3",
         "status": 1,
         "version": 29,
