@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/AnimeciX.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "AnimeciX",
         "internalName": "AnimeciX",
         "authors": [
             "onrcvndev"
         ],
         "description": "AnimeciX, animeleri ke\u015ffedebilece\u011finiz ve animeler hakk\u0131nda her \u015feyi \u00f6\u011frenebilece\u011finiz bir payla\u015f\u0131m platformudur.",
-        "fileSize": 59683,
+        "fileSize": 61470,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -17,19 +17,19 @@
         ],
         "iconUrl": "https://animecix.tv/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-32cc757b8112be7291fc723bbfb42f330deb18bebfaa6b0827d2fefbbc7d4e87"
+        "fileHash": "sha256-360548846af497ee38855baf8b800fe0be0a595acdf6c1fb942b03b4d93e4b7b"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/AsyaAnimeleri.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "AsyaAnimeleri",
         "internalName": "AsyaAnimeleri",
         "authors": [
             "onrcvndev"
         ],
         "description": "Asya Animeleri - Anime izle, Donghua izle, T\u00fcrk\u00e7e Altyaz\u0131l\u0131 Anime izle.",
-        "fileSize": 47668,
+        "fileSize": 49358,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -37,19 +37,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-3d05a34ac7c357309332739ae3ad7200dbfadf88613dc718550fa134072024c1"
+        "fileHash": "sha256-adf4c45a75628ed53c02883289667bda669ed779ae7b8d56d330a5bccd0eaaf2"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/BelgeselX.cs3",
         "status": 1,
-        "version": 19,
+        "version": 20,
         "name": "BelgeselX",
         "internalName": "BelgeselX",
         "authors": [
             "onrcvndev"
         ],
         "description": "En yeni belgeseller, t\u00fcrk\u00e7e altyaz\u0131l\u0131 yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-        "fileSize": 62730,
+        "fileSize": 64434,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -57,19 +57,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-9201be570df5829ee8143c7cad2927a1df644657663afba52bd416c20c33d722"
+        "fileHash": "sha256-39875fff3f81effe087e7affee6d8c89aa65bb7fc38810793f1113d2175e36b9"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/CizgiMax.cs3",
         "status": 1,
-        "version": 18,
+        "version": 19,
         "name": "CizgiMax",
         "internalName": "CizgiMax",
         "authors": [
             "onrcvndev"
         ],
         "description": "\u00c7izgiMax ile \u00c7izgi Film izlemek art\u0131k daha kolay, donmadan full hd ve reklams\u0131z bir sitedir, i\u00e7erisinde 700 den fazla \u00e7izgi film olan, Bu site bu i\u015fi profesyonelce yap\u0131yor.",
-        "fileSize": 65484,
+        "fileSize": 67339,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -79,19 +79,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-6e0e3b31c61e0af30bce03c835e6a61217e91f8f5ab20aa3945512c63e1aed21"
+        "fileHash": "sha256-b5948f085bcd04126d86a40a16c4a0c184cc5d6d671f24ca2a9ffb39a568a25d"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/Ddizi.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "Ddizi",
         "internalName": "Ddizi",
         "authors": [
             "onrcvndev"
         ],
         "description": "DDizi.im i\u00e7in Cloudstream eklentisi",
-        "fileSize": 53318,
+        "fileSize": 55127,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -99,19 +99,19 @@
         ],
         "iconUrl": "https://www.ddizi.im/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-e0e20aa68fe8435ee1a4f25053394984472848d4488a3eceb513f30a64073d71"
+        "fileHash": "sha256-f570e4d64f00e2f197bb1254060e680a42071550e7bca9e9deb933d57570387f"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DebridService.cs3",
         "status": 3,
-        "version": 2,
+        "version": 3,
         "name": "DebridService",
         "internalName": "DebridService",
         "authors": [
             "onrcvndev"
         ],
         "description": "Stremio stream addonlar\u0131n\u0131 CloudStream kaynaklar\u0131na ekleyen deneysel k\u00f6pr\u00fc.",
-        "fileSize": 45835,
+        "fileSize": 17374,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -120,19 +120,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=stremio.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-d37d83ec9c5985477773dc8c5aa83f487a8984099f776adfcb8a5361ad59e1e4"
+        "fileHash": "sha256-ddd3f9b33db2bba5d486c8d9bb6199d240119f35a8d5b11a5c86240f708ef879"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziBox.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "DiziBox",
         "internalName": "DiziBox",
         "authors": [
             "onrcvndev"
         ],
         "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site.",
-        "fileSize": 56216,
+        "fileSize": 57932,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -140,19 +140,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-31ae452b2db53ae346484061ef378de18fed61925ea32977338c3ff7bad9f90a"
+        "fileHash": "sha256-9ab152247c60428a1d29c7a71723ffea15ac9a538a8a2dffdf9467339e35d5df"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziKorea.cs3",
         "status": 1,
-        "version": 49,
+        "version": 50,
         "name": "DiziKorea",
         "internalName": "DiziKorea",
         "authors": [
             "onrcvndev"
         ],
         "description": "En G\u00fcncel Kore Dizileri izleme Sitesi",
-        "fileSize": 59059,
+        "fileSize": 60804,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -160,19 +160,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-76fb0fd6a0196726395beb8b4dbfb34dc4d65a3962bbf40032602d440a3a8798"
+        "fileHash": "sha256-93ecacfb880e1796196f46d0e0e9bd4ee70da18e977d16642e01b6d0241b37bb"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/Dizilla.cs3",
         "status": 1,
-        "version": 95,
+        "version": 96,
         "name": "Dizilla",
         "internalName": "Dizilla",
         "authors": [
             "onrcvndev"
         ],
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "fileSize": 68517,
+        "fileSize": 70185,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -180,19 +180,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.now&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-e80a0204c8b1e5e38788a24037674bfb3013b7029c71303ee1834648ae5665ea"
+        "fileHash": "sha256-2697083b9923c323301363cd62b47e158f172aeb5b83b9a0e42b1fb1d3f231fb"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziMom.cs3",
         "status": 1,
-        "version": 57,
+        "version": 58,
         "name": "DiziMom",
         "internalName": "DiziMom",
         "authors": [
             "onrcvndev"
         ],
         "description": "Binlerce yerli yabanc\u0131 dizi ar\u015fivi, t\u00fcm sezonlar, kesintisiz b\u00f6l\u00fcmler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 66586,
+        "fileSize": 68390,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -200,19 +200,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.surf&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-56ad03f594059de2e07747ab402f689d0495cc13fa7a8230200194045377d7a8"
+        "fileHash": "sha256-7d16e8f56ac0818742606500e27f5ad14bebcab49f92a434a9510c581293deb4"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziPal.cs3",
         "status": 1,
-        "version": 106,
+        "version": 107,
         "name": "DiziPal",
         "internalName": "DiziPal",
         "authors": [
             "onrcvndev"
         ],
         "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 62418,
+        "fileSize": 64127,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -221,19 +221,19 @@
         ],
         "iconUrl": "https://dizipal1577.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-951db33e558ed3ca9b90e1a420caa8202d156123e2f0e4731d7d043c21f21196"
+        "fileHash": "sha256-badf34fc96f89783b293826919647ac64a366b76d4b04b8f08ab607d8778e176"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziPalOriginal.cs3",
         "status": 1,
-        "version": 85,
+        "version": 86,
         "name": "DiziPalOriginal",
         "internalName": "DiziPalOriginal",
         "authors": [
             "onrcvndev"
         ],
         "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
-        "fileSize": 59844,
+        "fileSize": 61616,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -242,19 +242,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=resmi.dizipal2117.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-a0ac5731b955c604b46ff22164ea0227096f1fdb3e5cebf4993d989b2bf317b8"
+        "fileHash": "sha256-814ff240419d9decd8a78d74308aad180eb322088155e3090c5b479288916bf3"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/FilmMakinesi.cs3",
         "status": 1,
-        "version": 60,
+        "version": 61,
         "name": "FilmMakinesi",
         "internalName": "FilmMakinesi",
         "authors": [
             "onrcvndev"
         ],
         "description": "Film Makinesi, en yeni ve en g\u00fcncel filmleri sitemizde full HD kalite fark\u0131 ile izleyebilirsiniz. HD film izle denildi\u011finde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 53773,
+        "fileSize": 55567,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -262,19 +262,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-caee504548841d3f79b324603eb3e53240e9ea485fb46a6998703cd72733bee6"
+        "fileHash": "sha256-ca47cceb161222368410d40abba984511f64ee8f80094ed890482068df48ee1a"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/FullHDFilmizlesene.cs3",
         "status": 1,
-        "version": 36,
+        "version": 37,
         "name": "FullHDFilmizlesene",
         "internalName": "FullHDFilmizlesene",
         "authors": [
             "onrcvndev"
         ],
         "description": "Sinema zevkini evinize kadar getirdik. T\u00fcrkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 72602,
+        "fileSize": 74170,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -282,19 +282,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-207930978ecbb87be3328f3a8f95432f67b589f9c1d60a3874646549639b0786"
+        "fileHash": "sha256-d8a758c49b9290cf3d8faa05d58a1264ed627a27edd394191f65db056c27bcb7"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/HDFilmCehennemi.cs3",
         "status": 1,
-        "version": 50,
+        "version": 51,
         "name": "HDFilmCehennemi",
         "internalName": "HDFilmCehennemi",
         "authors": [
             "onrcvndev"
         ],
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
-        "fileSize": 63399,
+        "fileSize": 65047,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -303,19 +303,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-ff6ea2fece41b04e8678c5f87ef38060659424a38a8e6c09ec9e30a77c57f46c"
+        "fileHash": "sha256-85eb09369ef01908f110ecffd409d6ae60eaf0093cc82c36d548b1be05d4c118"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/KultFilmler.cs3",
         "status": 1,
-        "version": 18,
+        "version": 19,
         "name": "KultFilmler",
         "internalName": "KultFilmler",
         "authors": [
             "onrcvndev"
         ],
         "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
-        "fileSize": 59628,
+        "fileSize": 61363,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -324,19 +324,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-e6e7d0ab76b76b90decacbb486bc750d2073af24d5c464d174274a28cac2e68a"
+        "fileHash": "sha256-e715f941b4524cf0acd30ceecbc77ee9e4cd13e1a88f92959426e75e89d7f8f0"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/RareFilmm.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "RareFilmm",
         "internalName": "RareFilmm",
         "authors": [
             "onrcvndev"
         ],
         "description": "The Cave of Forgotten Films",
-        "fileSize": 49146,
+        "fileSize": 50943,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "en",
         "tvTypes": [
@@ -344,19 +344,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-dda50d35740d4351535070e94c50f3600410a878b34a43efae15487bfdf3c45f"
+        "fileHash": "sha256-05e1b24defb9515265aafb7ed79133b0e676b3703123b4fc0f6851c78c5964e4"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/SezonlukDizi.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "SezonlukDizi",
         "internalName": "SezonlukDizi",
         "authors": [
             "onrcvndev"
         ],
         "description": "G\u00fcncel ve eski dizileri en iyi g\u00f6r\u00fcnt\u00fc kalitesiyle bulabilece\u011finiz yabanc\u0131 dizi izleme siteniz.",
-        "fileSize": 54160,
+        "fileSize": 55995,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -364,19 +364,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-1a04ebadd6d4678ac7ba42ed4b3a7a79f1034053ba916202764c9c58bee19212"
+        "fileHash": "sha256-f53dfa61ad51b79a074749afa2d981a551b5bc3d7045369d6c81b08d5dc4a38f"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/SinemaCX.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "SinemaCX",
         "internalName": "SinemaCX",
         "authors": [
             "onrcvndev"
         ],
         "description": "G\u00fcncel ve en iyi yabanc\u0131 filmleri y\u00fcksek g\u00f6r\u00fcnt\u00fc kalitesinde, T\u00fcrk\u00e7e dublaj ve altyaz\u0131 se\u00e7enekleriyle filmleri full izleyin.",
-        "fileSize": 49430,
+        "fileSize": 51162,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -384,19 +384,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-487455d2a404513a86f1494ab61aa30e00a2ed7e96f8679d95da4ddcfe897152"
+        "fileHash": "sha256-e0778a9b49d1cedcb9d5911fed239bb0e34f677ad26d0857ac6b249eea7694dd"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/TRasyalog.cs3",
         "status": 1,
-        "version": 67,
+        "version": 68,
         "name": "TRasyalog",
         "internalName": "TRasyalog",
         "authors": [
             "onrcvndev"
         ],
         "description": "TRasyalog izleme sitesi.",
-        "fileSize": 49150,
+        "fileSize": 50947,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -404,19 +404,19 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-3bb403fbc84f7ec84cbc3a6aad8f52cc16c34c62abb9d294a673a79f7959bad9"
+        "fileHash": "sha256-c6419a4102c5701aeec5c611bbf6e218d5c6aae687dcbc374180b349db9705fd"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/WebDramaTurkey.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "WebDramaTurkey",
         "internalName": "WebDramaTurkey",
         "authors": [
             "onrcvndev"
         ],
         "description": "Web Drama Turkey \u00fczerinden Kore, \u00c7in, Japon ve di\u011fer Asya dizilerini, filmlerini ve animelerini izleyin.",
-        "fileSize": 60043,
+        "fileSize": 61806,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -427,19 +427,19 @@
         ],
         "iconUrl": "https://webdramaturkey2.com/public/static/logo.webp?v=2.5.27",
         "apiVersion": 1,
-        "fileHash": "sha256-02ffafc874613a543429a0660d79ce44ff76ba01308774f9031a24d1afa9e67b"
+        "fileHash": "sha256-8eea6a1f869bf7ca520f18b84d96103efda1404ab80f3205ae2cc8763228d3c1"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/WebteIzle.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "WebteIzle",
         "internalName": "WebteIzle",
         "authors": [
             "onrcvndev"
         ],
         "description": "Her t\u00fcrl\u00fc filmi ister dublaj ister altyaz\u0131l\u0131, en kaliteli bir \u015fekilde izleyebilece\u011finiz ar\u015fivi en geni\u015f ger\u00e7ek film izleme siteniz.",
-        "fileSize": 60562,
+        "fileSize": 62299,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -447,6 +447,6 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-8e2e0db2a8e382a274acb15f48e9e9e053844fa7d08b8b4eb361c5394f9f04c2"
+        "fileHash": "sha256-f1aa2a0913beb617129cc18d8741f570ecfd16327a5ddcba68e41911ad4e12ee"
     }
 ]
