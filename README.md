@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/repo.json
 - CizgiMax
 - Ddizi
 - DebridService
+- DiziAsia
 - DiziBox
 - DiziKorea
 - DiziMom

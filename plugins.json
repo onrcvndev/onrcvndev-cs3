@@ -123,6 +123,26 @@
         "fileHash": "sha256-ddd3f9b33db2bba5d486c8d9bb6199d240119f35a8d5b11a5c86240f708ef879"
     },
     {
+        "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziAsia.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "DiziAsia",
+        "internalName": "DiziAsia",
+        "authors": [
+            "onrcvndev"
+        ],
+        "description": "Kore ve \u00c7in dizilerini T\u00fcrk\u00e7e altyaz\u0131l\u0131 izleme sa\u011flay\u0131c\u0131s\u0131.",
+        "fileSize": 63543,
+        "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
+        "language": "tr",
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=diziasia.com&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-88f4afd7b2ef3f8873fc28bff328dac726d5aad54b7a2db95153e5cf40ca1222"
+    },
+    {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/DiziBox.cs3",
         "status": 1,
         "version": 29,
