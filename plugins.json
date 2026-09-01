@@ -22,14 +22,14 @@
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/AsyaAnimeleri.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "AsyaAnimeleri",
         "internalName": "AsyaAnimeleri",
         "authors": [
             "onrcvndev"
         ],
         "description": "Asya Animeleri - Anime izle, Donghua izle, T\u00fcrk\u00e7e Altyaz\u0131l\u0131 Anime izle.",
-        "fileSize": 14343,
+        "fileSize": 19981,
         "repositoryUrl": "https://github.com/onrcvndev/onrcvndev-cs3",
         "language": "tr",
         "tvTypes": [
@@ -37,7 +37,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-1da218a3a395a643df4cd1d141bd234782cb9435854d8f4eb220e1fd5fa225a0"
+        "fileHash": "sha256-0b079c5a4a9c8ae9331b4e9c54e3e82cc06579fe1a87f3b5c0766ddc45649e5d"
     },
     {
         "url": "https://raw.githubusercontent.com/onrcvndev/onrcvndev-cs3/main/BelgeselX.cs3",
